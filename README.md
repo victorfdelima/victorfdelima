@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm using Whatsapp</h1>
 <h3 align="center">Um backend super...</h3>
-<p align="left"> <a href="https://twitter.com/victorfdlima020" target="blank"><img src="https://img.shields.io/twitter/follow/victorfdlima020?logo=twitter&style=for-the-badge" alt="victorfdlima020" /></a> </p>
 
 - 🔭 I’m currently working on **Vários Projetos**
 
